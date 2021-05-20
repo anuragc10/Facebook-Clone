@@ -27,7 +27,10 @@
 }
 
 .messageSender__top>form>button{
-    display: none;
+    display: inline;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
 }
 .messageSender__input{
     flex: 1;
